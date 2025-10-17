@@ -11,11 +11,6 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
   ... </p>
 
-### 📊 Meus Projetos em Destaque
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **[Nome do Projeto 1](LINK_PARA_O_REPOSITORIO)** | Breve descrição... | `Python`, `Pandas`, `Matplotlib` |
-
 ### 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=carlosadauto7&show_icons=true&theme=dracula...)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosadauto7&layout=compact&theme=dracula)
