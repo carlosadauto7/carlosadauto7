@@ -1,4 +1,4 @@
-# Olá, meu nome é  Carlos Adauto, seja bem-vindo(a) no meu perfil GitHub👋
+# Olá, meu nome é  Carlos Adauto, seja bem-vindo(a) ao meu perfil GitHub👋
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Atualmente no 2º período de **Ciência de Dados e Inteligência Artificial** na Universidade Federal da Paraíba (UFPB).
