@@ -1,64 +1,78 @@
-<div align="left">
+# Hello, I'm Carlos Adauto! 
 
-# Carlos Adauto
+### About Me
 
-Data Science and Artificial Intelligence student passionate about turning data into meaningful insights. My main interests include Machine Learning, predictive modeling, and building practical solutions using data.
+I'm an undergraduate student of **Data Science and Artificial Intelligence** at the **Federal University of Paraíba (UFPB)**. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosadauto/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosadauto7oficial@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/carlosadauto)
+I am passionate about turning raw data into meaningful insights and practical solutions. My main focus areas include **Machine Learning**, predictive modeling, and remote sensing data analysis. Currently, I'm a trainee at the CortechX academic league and an active participant in the ARIA project.
 
 ---
 
-### 📬 Contact
-- **LinkedIn:** https://www.linkedin.com/in/carlosadauto  
-- **Email:** carlosadauto7oficial@gmail.com  
-- **Discord:** @carlosadauto  
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 🎓 Academic Background
-**B.Sc. in Data Science and Artificial Intelligence** — Federal University of Paraíba (UFPB)  
-*2nd semester — in progress*
+### Activity Dashboard
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosadauto7&theme=dracula" width="95%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosadauto7&theme=tokyonight" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosadauto7&theme=dracula" width="95%" />
+</p>
 
 ---
 
-## 🚀 Technical Skills
+### Featured Projects
 
-### **Core Languages & Tools**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)](#)
+- **[Structured Recommendation System](https://github.com/Adiells/structured-recommendation-system)**
+  A product recommendation system built in C++ utilizing the STL library, focusing on matrix similarity and structured programming refactoring.
 
-### **Data Science Stack**
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](#)
+- **[School Data System](https://github.com/carlosadauto7/school_data_system)**
+  A system designed for managing and processing educational data efficiently.
 
-### **Development Tools**
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-[![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+- **[ICD Project](https://github.com/arthxrmedeiros/IcdProject)**
+  A collaborative data science project focused on exploratory data analysis and extracting insights.
 
----
-
-## 🎯 Career Objective
-I’m committed to continuously developing my programming and analytical skills. My goal is to become a data professional capable of transforming raw information into meaningful, actionable strategies.
-
----
-
-## 📂 Featured Project
-- **[Pygame Treasure Hunt](https://github.com/carlosadauto7/pygame-treasure-hunt.git)**  
+- **[Pygame Treasure Hunt](https://github.com/carlosadauto7/pygame-treasure-hunt.git)**
   A treasure-hunt game built with Python and Pygame — featuring event handling, game logic, and 2D design.
 
 ---
 
-<details>
-<summary>📊 GitHub Statistics</summary>
+### Connect with me
 
-[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosadauto7&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/carlosadauto7)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosadauto7&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/carlosadauto7)
+<p align="center">
+  <b>Let's talk about Data Science, Machine Learning, or career opportunities!</b>
+</p>
 
-</details>
-
-</div>
+<p align="center">
+  <a href="mailto:carlosadauto7oficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlosadauto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/carlosadauto">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
